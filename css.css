@@ -1,0 +1,108 @@
+body,html{
+
+    background: rgba(109, 60, 48, 0.596);
+    
+}
+
+p {
+    font-family: cursive;
+    color: black;
+    font-size: 16px;
+    text-align: center;
+}
+menu{
+    list-style-type: none;
+    
+    }
+
+    section {
+    width:90%;
+    margin:auto;
+    padding: 5px;
+    border: 2px solid black; 
+    text-align: center;
+}
+
+header {
+    width: 100%;
+    height: 7em;
+    background-color: #57271bcc;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    padding-top: 20px;
+    font-size: 2em; 
+    text-align: center;
+    color: #fff;
+}
+.container{
+    text-align: center;
+    }
+    
+nav {
+    width: 100%;
+    height: 6em;
+    background-color: rgba(138, 74, 31, 0.315);
+    text-align: center;
+    color: #fff;
+}
+
+nav li {
+    display: inline-block;
+    padding-top: 5px;
+    font-size: 170%; 
+    text-align: center;
+}
+
+ul {
+    list-style-position: inside;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-family:'Times New Roman', Times, serif;
+    text-align:  center;
+    color: black;
+    font-size: 40px;
+    text-align: center;
+}
+
+h2{
+    font-family:Arial, Helvetica, sans-serif;
+    color: rgb(41, 21, 5);
+    font-size: 26px;
+    text-align: center;
+}
+
+h4{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(41, 21, 5);
+    font-size: 18px;
+    text-align: center;
+}
+
+h3 {
+    font-family: "Georgia", serif; 
+    text-align: center;
+}
+
+p {
+    font-family: "Times New Roman", serif; 
+    text-align: center;
+
+}
+
+table{
+    width: 100%;
+    text-align: center;
+    border: none;
+    background-color:  #805341;
+}
+
+td{
+    text-align: center; 
+    vertical-align: middle; 
+    border: none;
+    background-color:  #a0664d;
+}
